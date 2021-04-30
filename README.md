@@ -9,7 +9,7 @@ PINN reduces the computational cost by avoid computing the inverse of the impeda
 
 The resulting scattered wavefields are free of numerical dispersion artifacts
 
-![image](https://user-images.githubusercontent.com/31889731/116651995-f7a17000-a98c-11eb-9ef1-b18e4562f661.png)
+![Uploading du.jpg…]()
 
 # Installation of Tensorflow1
 

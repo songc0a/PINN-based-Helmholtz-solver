@@ -58,3 +58,6 @@ If you find our codes and publications helpful, please kindly cite the following
   pages={2638--2642},  
   year={2020},  
   publisher={Society of Exploration Geophysicists}  
+
+# contact information
+If there are any problems, please contact me through my emails: chao.song@kaust.edu.sa;csong1@ic.ac.uk

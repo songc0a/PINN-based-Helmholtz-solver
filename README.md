@@ -6,5 +6,5 @@ PINN is able to solve the acoustic isotropic and anisotropic wave equation
 PINN reduces the computational cost by avoid computing the inverse of the impedance matrix, which is suitable for anisotropic large models 
 
 The resulting scattered wavefields are free of numerical dispersion artifacts
-![image](https://user-images.githubusercontent.com/31889731/116651417-d5f3b900-a98b-11eb-8095-1ef6a300c273.png)
+
 

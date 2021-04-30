@@ -3,10 +3,17 @@
 
 # Overview
 
-PINN is able to solve the acoustic isotropic and anisotropic wave equation
+We propose to use the physics Informed Neural Network (PINN) to solve the scattered form of acoustic isotropic and anisotropic wave equations
 
 PINN reduces the computational cost by avoid computing the inverse of the impedance matrix, which is suitable for anisotropic large models 
 
 The resulting scattered wavefields are free of numerical dispersion artifacts
 
+![image](https://user-images.githubusercontent.com/31889731/116651995-f7a17000-a98c-11eb-9ef1-b18e4562f661.png)
+
+# Installation of Tensorflow1
+
+CPU usage: pip install --pre "tensorflow==1.15.*"
+
+GPU usage: pip install --pre "tensorflow-gpu==1.15.*"
 

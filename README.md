@@ -21,15 +21,15 @@ GPU usage: pip install --pre "tensorflow-gpu==1.15.*"
 
 If you find our codes and publications helpful, please kindly cite the following publications.
 
-@article{song2020solving,
-  title={Solving the frequency-domain acoustic VTI wave equation using physics-informed neural networks},
-  author={Song, Chao and Alkhalifah, Tariq and Waheed, Umair Bin},
-  journal={Geophysical Journal International},
-  volume={225},
-  number={2},
-  pages={846–-859},
-  year={2021},
-  publisher={Oxford University Press}
+@article{song2020solving,  
+  title={Solving the frequency-domain acoustic VTI wave equation using physics-informed neural networks},  
+  author={Song, Chao and Alkhalifah, Tariq and Waheed, Umair Bin},  
+  journal={Geophysical Journal International},  
+  volume={225},  
+  number={2},  
+  pages={846–-859},  
+  year={2021},  
+  publisher={Oxford University Press}  
 }
 
 @inproceedings{alkhalifah2020wavefield,

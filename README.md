@@ -33,20 +33,20 @@ If you find our codes and publications helpful, please kindly cite the following
 }
 
 @inproceedings{alkhalifah2020wavefield,
-  title={Wavefield solutions from machine learned functions that approximately satisfy the wave equation},
-  author={Alkhalifah, Tariq and Song, Chao and Hao, Q and others},
-  booktitle={82nd EAGE Annual Conference \& Exhibition},
-  volume={2020},
-  number={1},
-  pages={1--5},
-  year={2020},
-  organization={European Association of Geoscientists \& Engineers}
+  title={Wavefield solutions from machine learned functions that approximately satisfy the wave equation},  
+  author={Alkhalifah, Tariq and Song, Chao and Hao, Q and others},  
+  booktitle={82nd EAGE Annual Conference \& Exhibition},  
+  volume={2020},  
+  number={1},  
+  pages={1--5},  
+  year={2020},  
+  organization={European Association of Geoscientists \& Engineers}  
 }
 
-@incollection{alkhalifah2020machine,
-  title={Machine learned Green’s functions that approximately satisfy the wave equation},
-  author={Alkhalifah, Tariq and Song, Chao and Waheed, Umair bin},
-  booktitle={SEG Technical Program Expanded Abstracts 2020},
-  pages={2638--2642},
-  year={2020},
-  publisher={Society of Exploration Geophysicists}
+@incollection{alkhalifah2020machine,  
+  title={Machine learned Green’s functions that approximately satisfy the wave equation},  
+  author={Alkhalifah, Tariq and Song, Chao and Waheed, Umair bin},  
+  booktitle={SEG Technical Program Expanded Abstracts 2020},  
+  pages={2638--2642},  
+  year={2020},  
+  publisher={Society of Exploration Geophysicists}  

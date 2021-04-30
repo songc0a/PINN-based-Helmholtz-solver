@@ -16,4 +16,3 @@ The resulting scattered wavefields are free of numerical dispersion artifacts
 CPU usage: pip install --pre "tensorflow==1.15.*"
 
 GPU usage: pip install --pre "tensorflow-gpu==1.15.*"
-

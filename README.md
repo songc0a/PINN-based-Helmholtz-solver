@@ -18,6 +18,13 @@ CPU usage: pip install --pre "tensorflow==1.15.*"
 
 GPU usage: pip install --pre "tensorflow-gpu==1.15.*"
 
+# Code explanation
+
+helm_pinn_solver_layermodel.py: Tensorflow code for solving the Helmholtz equation using PINN  
+helm_pinn_solver_layermodel_sx.py: Tensorflow code for solving the Helmholtz equation for multiple sources using PINN  
+helm_pinn_vti_layermodel.py: Tensorflow code for solving the Helmholtz equation in acoustic VTI media for using PINN  
+Layer_training_data_generation*.m: Matlab code for generating training and test data  
+
 # Citation information
 
 If you find our codes and publications helpful, please kindly cite the following publications.
